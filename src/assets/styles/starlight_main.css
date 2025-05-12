@@ -8,11 +8,11 @@
 }
 /* Dark mode colors. */
 :root {
-    --primary-button-hover: #ff801f;
+    --primary-button-hover: #15803d;
     --backdrop-color: #272727cc;
-    --sl-color-accent: #ff801f;
-    --sl-color-accent-high: #ffa057;
-    --sl-color-accent-low: #562800;
+    --sl-color-accent: #15803d;
+    --sl-color-accent-high: #14532d;
+    --sl-color-accent-low: #4ade80;
     --sl-color-black: #181818;
     --sl-color-gray-1: #eee;
     --sl-color-gray-2: #c2c2c2;
@@ -27,13 +27,14 @@
     --border-neutral: 0, 0%, 25.1%;
 }
 
+
 /* Light mode colors. */
 :root[data-theme='light'] {
-    --primary-button-hover: #ff801f;
+    --primary-button-hover: #15803d;
     --backdrop-color: #f6f6f699;
-    --sl-color-accent: #f76b15;
-    --sl-color-accent-high: #562800;
-    --sl-color-accent-low: #ffa057;
+    --sl-color-accent: #15803d;
+    --sl-color-accent-high: #14532d;
+    --sl-color-accent-low: #4ade80;
     --sl-color-black: #fff;
     --sl-color-gray-1: #272727;
     --sl-color-gray-2: #383838;
@@ -46,7 +47,7 @@
     --yellow-hsl: 47.9, 95.8%, 53.1%;
     --border-yellow: 54.9, 96.7%, 88%;
     --border: hsla(var(--border-yellow), .4);
-}
+} 
 
 .page {
     background: linear-gradient(215deg, var(--overlay-yellow), transparent 40%), radial-gradient(var(--overlay-yellow), transparent 40%) no-repeat center center / cover, radial-gradient(var(--overlay-yellow), transparent 65%) no-repeat center center / cover;

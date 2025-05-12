@@ -1,6 +1,6 @@
 {
   "title": "Simple, Transparent Pricing",
-  "subTitle": "Boost efficiency with ScrewFast's clear, value-driven plans.",
+  "subTitle": "Boost efficiency with HandyHeroes's clear, value-driven plans.",
   "badge": "Best value",
   "thirdOption": "Enterprise Solutions?",
   "btnText": "Get a Custom Quote",
@@ -10,7 +10,7 @@
     "description": "Best option for DIY projects",
     "price": "49",
     "cents": ".00",
-    "billingFrequency": "USD / monthly",
+    "billingFrequency": "ZAR / monthly",
     "features": [
       "Key hardware tools",
       "Access to guides & tutorials",
@@ -25,7 +25,7 @@
     "description": "Best for large scale uses",
     "price": "89",
     "cents": ".00",
-    "billingFrequency": "USD / monthly",
+    "billingFrequency": "ZAR / monthly",
     "features": [
       "Premium tool selection",
       "Priority support",
